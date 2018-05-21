@@ -1,0 +1,5 @@
+name: If Boolean
+version: "1.0"
+description: Filters a multidimensional array by a boolean field.
+developer: Becky Soll
+developer_url: www.beckysoll.com
