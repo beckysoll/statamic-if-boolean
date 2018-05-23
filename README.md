@@ -51,12 +51,10 @@ ghosts:
 <ul>
   <li>Nearly Headless Nick</li>
   <li>Captain Daniel Gregg</li>
-
 </ul>
-<hr>
+<br>
 <ul>
   <li>Casper</li>
   <li>Slimer</li>
   <li>Stay Puffed</li>
-
 </ul>
