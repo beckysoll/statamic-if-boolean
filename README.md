@@ -38,7 +38,7 @@ ghosts:
   <li>{{ name }}</li>
 {{ /ghosts }}
 </ul>
-<hr>
+<br>
 <ul>
 {{ ghosts if_boolean="humanoid:false" }}
   <li>{{ name }}</li>
