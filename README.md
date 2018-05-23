@@ -7,7 +7,7 @@ Copy `IfBoolean` folder into `/site/addons/`.
 ## Usage
 
 
-- The first parameter should be the name of the boolean field within each set/row of the array field.
+- The first parameter should be the name of the boolean field to filter by.
 - The (optional) second parameter can be set to `false` to reverse the logic.
 
 ### If your data looks like this
