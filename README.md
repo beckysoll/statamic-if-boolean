@@ -48,7 +48,6 @@ ghosts:
 
 ### Outputs
 
-```
 <ul>
   <li>Nearly Headless Nick</li>
   <li>Captain Daniel Gregg</li>
@@ -61,6 +60,3 @@ ghosts:
   <li>Stay Puffed</li>
 
 </ul>
-```
-
-_Tasty ipsum provided by http://www.cheeseipsum.co.uk/_
