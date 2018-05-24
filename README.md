@@ -1,5 +1,5 @@
 # statamic-if-boolean
-A statamic 2.0 modifier that filters a multidimensional array (grid,bard,etc.) by a boolean field.
+A statamic 2.0 modifier that filters a multidimensional array (grid,bard,etc.) by a boolean/toggle field.
 
 
 Copy `IfBoolean` folder into `/site/addons/`.
