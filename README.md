@@ -7,8 +7,8 @@ Copy `IfBoolean` folder into `/site/addons/`.
 ## Usage
 
 
-- The first parameter should be the name of the boolean field to filter by.
-- The (optional) second parameter can be set to `false` to reverse the logic.
+- The first parameter should be the name of the boolean/toggle field to filter by.
+- The (optional) second parameter can be set to `false` for the opposite results.
 
 ### If your data looks like this
 
@@ -22,7 +22,7 @@ ghosts:
     name: Nearly Headless Nick
     humanoid: true
   - 
-    name: Stay Puffed
+    name: Stay Puft
   - 
     name: Captain Daniel Gregg
     humanoid: true
@@ -56,5 +56,5 @@ ghosts:
 <ul>
   <li>Casper</li>
   <li>Slimer</li>
-  <li>Stay Puffed</li>
+  <li>Stay Puft</li>
 </ul>
